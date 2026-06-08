@@ -1,0 +1,7 @@
+node_modules/
+*-wallet.json
+deployer-wallet.json
+farmer-wallet.json
+.env
+.env.local
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "contractId": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C.gem-pluck",
+  "deployer": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C",
+  "txid": "26920567a657e33fca06a07a1cf28f34b09ca6b7324f3a9d58e5cb9b071b8947",
+  "submittedAt": "2026-06-08T07:01:36.815Z",
+  "fee": "5000",
+  "clarityVersion": 4,
+  "explorer": "https://explorer.hiro.so/txid/26920567a657e33fca06a07a1cf28f34b09ca6b7324f3a9d58e5cb9b071b8947?chain=mainnet"
+}
