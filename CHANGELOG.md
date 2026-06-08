@@ -8,3 +8,4 @@
 - 2026-06-08 — misc tweaks (svly)
 - 2026-06-08 — tighten docs (0nog)
 - 2026-06-08 — small refinements (d6or)
+- 2026-06-08 — minor cleanup and polish (yj3n)
