@@ -1,0 +1,25 @@
+name: install-pulse
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: ["18", "20", "22"]
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Install gem-pluck-sdk
+        run: |
+          mkdir -p pulse-${{ matrix.node }}
+          cd pulse-${{ matrix.node }}
+          npm init -y > /dev/null
+          npm install gem-pluck-sdk@latest --no-save --no-audit --no-fund --silent
+          node -e "const sdk=require('gem-pluck-sdk');console.log('sdk ok');"
