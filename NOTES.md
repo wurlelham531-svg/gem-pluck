@@ -9,3 +9,4 @@ Dev journal — informal.
 - 2026-06-08: thinking about cleanup of contract entry point
 - 2026-06-08: todo: review error messages for clarity
 - 2026-06-08: thinking about cleanup of contract entry point
+- 2026-06-08: reminder: keep docs in sync with on-chain calls
