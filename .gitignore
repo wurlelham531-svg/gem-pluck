@@ -5,3 +5,11 @@ farmer-wallet.json
 .env
 .env.local
 .DS_Store
+
+# next.js
+.next/
+out/
+*.tsbuildinfo
+frontend/.next/
+frontend/node_modules/
+frontend/out/

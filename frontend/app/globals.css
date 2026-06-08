@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0c0418;
+  --foreground: #ece6f5;
+}
+
+body {
+  background: linear-gradient(135deg, #190530 0%, #2d1045 20%, #1a0a3a 40%, #2a0a4a 60%, #190530 100%);
+  background-attachment: fixed;
+  color: var(--foreground);
+  font-family: system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 50%, rgba(160, 32, 224, 0.14) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(255, 78, 197, 0.12) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 80%, rgba(32, 192, 96, 0.06) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.progress-shimmer {
+  background-size: 200% 100%;
+  animation: shimmer 2s ease-in-out infinite;
+}
+
+@keyframes pluck-press {
+  0% { transform: scale(1); }
+  50% { transform: scale(0.93); }
+  100% { transform: scale(1); }
+}
+.pluck-btn:active { animation: pluck-press 0.2s ease-out; }
+
+.gem-card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.gem-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(160, 32, 224, 0.3), 0 0 30px rgba(255, 78, 197, 0.1);
+}
+
+.lb-row {
+  transition: all 0.2s ease;
+}
+.lb-row:hover {
+  background: rgba(160, 32, 224, 0.1);
+  transform: translateX(4px);
+}
+
+.text-glow {
+  text-shadow: 0 0 20px rgba(160, 32, 224, 0.55), 0 0 40px rgba(255, 78, 197, 0.3);
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: rgba(12, 4, 24, 0.5); }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #a020e0, #ff4ec5);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #c489ff, #ff4ec5);
+}
+
+*:focus-visible {
+  outline: 2px solid rgba(168, 85, 247, 0.7);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: rgba(160, 32, 224, 0.35);
+  color: #ffffff;
+}
