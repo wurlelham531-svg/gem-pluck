@@ -12,3 +12,4 @@
 - 2026-06-10 — housekeeping pass (t6i5)
 - 2026-06-10 — routine maintenance (l0cr)
 - 2026-06-10 — housekeeping pass (gsc7)
+- 2026-06-10 — refresh build metadata (z4y2)
