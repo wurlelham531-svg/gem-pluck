@@ -19,3 +19,4 @@ Dev journal — informal.
 - 2026-06-10: thought: maybe a small "how it works" section
 - 2026-06-10: note: keep the frontend layout untouched for now
 - 2026-06-10: considering a small tweak to UX copy
+- 2026-06-10: todo: review error messages for clarity
