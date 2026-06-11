@@ -18,3 +18,4 @@
 - 2026-06-11 — misc tweaks (nfgc)
 - 2026-06-11 — routine maintenance (38kd)
 - 2026-06-11 — small wording fixes (8n3s)
+- 2026-06-11 — housekeeping pass (6sow)
