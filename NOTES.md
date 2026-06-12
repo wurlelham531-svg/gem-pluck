@@ -29,3 +29,4 @@ Dev journal — informal.
 - 2026-06-11: considering a small tweak to UX copy
 - 2026-06-11: note: keep the frontend layout untouched for now
 - 2026-06-12: micro-task: align dates in changelog format
+- 2026-06-12: todo: review error messages for clarity
