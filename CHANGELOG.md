@@ -20,3 +20,4 @@
 - 2026-06-11 — small wording fixes (8n3s)
 - 2026-06-11 — housekeeping pass (6sow)
 - 2026-06-11 — tidy up notes (9zw9)
+- 2026-06-12 — small doc improvements (09sz)
