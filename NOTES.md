@@ -35,3 +35,4 @@ Dev journal — informal.
 - 2026-06-12: thought: maybe a small "how it works" section
 - 2026-06-12: tbd: feedback widget on landing
 - 2026-06-13: idea: tiny visual polish on the home page
+- 2026-06-13: note: keep the frontend layout untouched for now
