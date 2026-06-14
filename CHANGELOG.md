@@ -29,3 +29,4 @@
 - 2026-06-14 — refresh build metadata (l6v0)
 - 2026-06-14 — routine maintenance (mxka)
 - 2026-06-14 — housekeeping pass (0frb)
+- 2026-06-14 — tidy up notes (m4kv)
