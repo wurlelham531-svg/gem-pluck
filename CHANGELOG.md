@@ -25,3 +25,4 @@
 - 2026-06-12 — small doc improvements (n5id)
 - 2026-06-13 — housekeeping pass (2bic)
 - 2026-06-13 — housekeeping pass (5uuy)
+- 2026-06-14 — refresh build metadata (sqmv)
