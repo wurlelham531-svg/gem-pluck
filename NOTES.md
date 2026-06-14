@@ -41,3 +41,4 @@ Dev journal — informal.
 - 2026-06-13: micro-task: align dates in changelog format
 - 2026-06-13: todo: review error messages for clarity
 - 2026-06-14: todo: better empty-state copy
+- 2026-06-14: idea: tiny visual polish on the home page
