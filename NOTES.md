@@ -43,3 +43,4 @@ Dev journal — informal.
 - 2026-06-14: todo: better empty-state copy
 - 2026-06-14: idea: tiny visual polish on the home page
 - 2026-06-14: todo: better empty-state copy
+- 2026-06-15: thought: maybe a small "how it works" section
