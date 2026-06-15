@@ -32,3 +32,4 @@
 - 2026-06-14 — tidy up notes (m4kv)
 - 2026-06-15 — tighten docs (s43u)
 - 2026-06-15 — small wording fixes (5q18)
+- 2026-06-15 — small wording fixes (c8l0)
