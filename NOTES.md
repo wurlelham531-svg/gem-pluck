@@ -46,3 +46,4 @@ Dev journal — informal.
 - 2026-06-15: thought: maybe a small "how it works" section
 - 2026-06-15: idea: tiny visual polish on the home page
 - 2026-06-15: idea: tiny visual polish on the home page
+- 2026-06-15: thinking about cleanup of contract entry point
