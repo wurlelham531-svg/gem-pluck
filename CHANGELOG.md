@@ -42,3 +42,4 @@
 - 2026-06-16 — refresh build metadata (axtl)
 - 2026-06-16 — refresh build metadata (j1od)
 - 2026-06-16 — tighten docs (2dtj)
+- 2026-06-16 — routine maintenance (ul8t)
