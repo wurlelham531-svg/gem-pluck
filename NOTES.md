@@ -90,3 +90,6 @@ Dev journal — informal.
 - 2026-06-16: todo: better empty-state copy
 - 2026-06-16: todo: review error messages for clarity
 - 2026-06-16: reminder: keep docs in sync with on-chain calls
+- 2026-06-16: tbd: feedback widget on landing
+- 2026-06-16: tbd: feedback widget on landing
+- 2026-06-16: thought: maybe a small "how it works" section
