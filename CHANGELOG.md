@@ -62,3 +62,4 @@
 - 2026-06-16 — tighten docs (0m43)
 - 2026-06-16 — small doc improvements (kwgp)
 - 2026-06-16 — small wording fixes (pqfn)
+- 2026-06-16 — small doc improvements (cyej)
