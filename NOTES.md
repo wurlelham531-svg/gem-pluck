@@ -54,3 +54,4 @@ Dev journal — informal.
 - 2026-06-16: todo: better empty-state copy
 - 2026-06-16: idea: tiny visual polish on the home page
 - 2026-06-16: tbd: feedback widget on landing
+- 2026-06-16: considering a small tweak to UX copy
