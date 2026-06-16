@@ -59,3 +59,4 @@
 - 2026-06-16 — routine maintenance (r446)
 - 2026-06-16 — small doc improvements (68sn)
 - 2026-06-16 — refresh build metadata (cw81)
+- 2026-06-16 — tighten docs (0m43)
