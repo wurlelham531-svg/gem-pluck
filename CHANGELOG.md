@@ -35,3 +35,4 @@
 - 2026-06-15 — small wording fixes (c8l0)
 - 2026-06-15 — housekeeping pass (ivq8)
 - 2026-06-16 — refresh build metadata (s750)
+- 2026-06-16 — small doc improvements (ot18)
