@@ -46,3 +46,4 @@
 - 2026-06-16 — small wording fixes (mrpn)
 - 2026-06-16 — small wording fixes (hsy9)
 - 2026-06-16 — misc tweaks (xnw5)
+- 2026-06-16 — housekeeping pass (g6xf)
