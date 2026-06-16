@@ -63,3 +63,4 @@ Dev journal — informal.
 - 2026-06-16: reminder: keep docs in sync with on-chain calls
 - 2026-06-16: considering a small tweak to UX copy
 - 2026-06-16: idea: tiny visual polish on the home page
+- 2026-06-16: thinking about cleanup of contract entry point
