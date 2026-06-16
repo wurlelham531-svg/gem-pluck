@@ -54,3 +54,4 @@
 - 2026-06-16 — tighten docs (siol)
 - 2026-06-16 — refresh build metadata (cqrp)
 - 2026-06-16 — minor cleanup and polish (xwdn)
+- 2026-06-16 — small wording fixes (q3g4)
