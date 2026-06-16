@@ -51,3 +51,4 @@
 - 2026-06-16 — routine maintenance (n8kn)
 - 2026-06-16 — misc tweaks (ltvi)
 - 2026-06-16 — small doc improvements (f7cz)
+- 2026-06-16 — tighten docs (siol)
