@@ -60,3 +60,4 @@
 - 2026-06-16 — small doc improvements (68sn)
 - 2026-06-16 — refresh build metadata (cw81)
 - 2026-06-16 — tighten docs (0m43)
+- 2026-06-16 — small doc improvements (kwgp)
