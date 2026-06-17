@@ -63,3 +63,6 @@
 - 2026-06-16 — small doc improvements (kwgp)
 - 2026-06-16 — small wording fixes (pqfn)
 - 2026-06-16 — small doc improvements (cyej)
+- 2026-06-17 — tidy up notes (hdwb)
+- 2026-06-17 — refresh build metadata (z0cm)
+- 2026-06-17 — minor cleanup and polish (dn7f)
