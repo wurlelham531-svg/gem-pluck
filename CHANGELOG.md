@@ -85,3 +85,4 @@
 - 2026-06-17 — small wording fixes (pyhk)
 - 2026-06-17 — refresh build metadata (vdpj)
 - 2026-06-17 — small doc improvements (5wfg)
+- 2026-06-17 — refresh build metadata (ndft)
