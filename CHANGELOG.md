@@ -81,3 +81,4 @@
 - 2026-06-17 — routine maintenance (fy0k)
 - 2026-06-17 — small refinements (54ot)
 - 2026-06-17 — routine maintenance (ngcj)
+- 2026-06-17 — tighten docs (gwtj)
