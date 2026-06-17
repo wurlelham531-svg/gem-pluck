@@ -104,3 +104,4 @@ Dev journal — informal.
 - 2026-06-17: todo: review error messages for clarity
 - 2026-06-17: thought: maybe a small "how it works" section
 - 2026-06-17: reminder: keep docs in sync with on-chain calls
+- 2026-06-17: todo: better empty-state copy
