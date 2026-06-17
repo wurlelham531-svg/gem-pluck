@@ -102,3 +102,4 @@ Dev journal — informal.
 - 2026-06-17: micro-task: align dates in changelog format
 - 2026-06-17: note: keep the frontend layout untouched for now
 - 2026-06-17: todo: review error messages for clarity
+- 2026-06-17: thought: maybe a small "how it works" section
