@@ -89,3 +89,4 @@
 - 2026-06-17 — housekeeping pass (k7hy)
 - 2026-06-17 — routine maintenance (8iiw)
 - 2026-06-17 — routine maintenance (5zgu)
+- 2026-06-17 — refresh build metadata (cpyc)
