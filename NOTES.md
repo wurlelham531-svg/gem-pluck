@@ -117,3 +117,4 @@ Dev journal — informal.
 - 2026-06-17: reminder: keep docs in sync with on-chain calls
 - 2026-06-17: considering a small tweak to UX copy
 - 2026-06-17: reminder: keep docs in sync with on-chain calls
+- 2026-06-17: note: keep the frontend layout untouched for now
