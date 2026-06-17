@@ -125,3 +125,4 @@ Dev journal — informal.
 - 2026-06-17: idea: tiny visual polish on the home page
 - 2026-06-17: todo: review error messages for clarity
 - 2026-06-17: thinking about cleanup of contract entry point
+- 2026-06-17: micro-task: align dates in changelog format
