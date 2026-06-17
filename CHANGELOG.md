@@ -83,3 +83,4 @@
 - 2026-06-17 — routine maintenance (ngcj)
 - 2026-06-17 — tighten docs (gwtj)
 - 2026-06-17 — small wording fixes (pyhk)
+- 2026-06-17 — refresh build metadata (vdpj)
