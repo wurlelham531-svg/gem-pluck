@@ -97,3 +97,6 @@ Dev journal — informal.
 - 2026-06-17: thinking about cleanup of contract entry point
 - 2026-06-17: reminder: keep docs in sync with on-chain calls
 - 2026-06-17: thought: maybe a small "how it works" section
+- 2026-06-17: idea: tiny visual polish on the home page
+- 2026-06-17: tbd: feedback widget on landing
+- 2026-06-17: micro-task: align dates in changelog format
