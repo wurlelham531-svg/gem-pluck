@@ -127,3 +127,5 @@ Dev journal — informal.
 - 2026-06-17: thinking about cleanup of contract entry point
 - 2026-06-17: micro-task: align dates in changelog format
 - 2026-06-17: thought: maybe a small "how it works" section
+- 2026-06-17: note: keep the frontend layout untouched for now
+- 2026-06-17: thought: maybe a small "how it works" section
