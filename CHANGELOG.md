@@ -68,3 +68,4 @@
 - 2026-06-17 — minor cleanup and polish (dn7f)
 - 2026-06-17 — refresh build metadata (2agv)
 - 2026-06-17 — housekeeping pass (6nhx)
+- 2026-06-17 — tighten docs (s0y6)
