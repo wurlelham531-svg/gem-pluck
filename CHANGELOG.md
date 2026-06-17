@@ -71,3 +71,4 @@
 - 2026-06-17 — tighten docs (s0y6)
 - 2026-06-17 — small refinements (p2hc)
 - 2026-06-17 — small refinements (fzh0)
+- 2026-06-17 — tidy up notes (z530)
