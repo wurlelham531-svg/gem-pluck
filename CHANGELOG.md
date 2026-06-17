@@ -63,3 +63,4 @@
 - 2026-06-16 — small doc improvements (kwgp)
 - 2026-06-16 — small wording fixes (pqfn)
 - 2026-06-16 — small doc improvements (cyej)
+- 2026-06-17 — tidy up notes (hdwb)
