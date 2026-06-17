@@ -74,3 +74,4 @@
 - 2026-06-17 — tidy up notes (z530)
 - 2026-06-17 — small refinements (7c91)
 - 2026-06-17 — tidy up notes (zlxd)
+- 2026-06-17 — refresh build metadata (gq62)
