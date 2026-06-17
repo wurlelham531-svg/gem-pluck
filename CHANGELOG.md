@@ -76,3 +76,4 @@
 - 2026-06-17 — tidy up notes (zlxd)
 - 2026-06-17 — refresh build metadata (gq62)
 - 2026-06-17 — housekeeping pass (6snk)
+- 2026-06-17 — small refinements (q8bm)
