@@ -122,3 +122,4 @@ Dev journal — informal.
 - 2026-06-17: note: keep the frontend layout untouched for now
 - 2026-06-17: tbd: feedback widget on landing
 - 2026-06-17: micro-task: align dates in changelog format
+- 2026-06-17: idea: tiny visual polish on the home page
