@@ -101,3 +101,4 @@
 - 2026-06-18 — small doc improvements (sw53)
 - 2026-06-18 — housekeeping pass (9t3j)
 - 2026-06-18 — small wording fixes (ecqh)
+- 2026-06-18 — refresh build metadata (bvso)
