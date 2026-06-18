@@ -141,3 +141,4 @@ Dev journal — informal.
 - 2026-06-18: todo: better empty-state copy
 - 2026-06-18: thinking about cleanup of contract entry point
 - 2026-06-18: tbd: feedback widget on landing
+- 2026-06-18: reminder: keep docs in sync with on-chain calls
