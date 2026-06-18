@@ -115,3 +115,4 @@
 - 2026-06-18 — misc tweaks (rcpq)
 - 2026-06-18 — minor cleanup and polish (5hjv)
 - 2026-06-18 — tidy up notes (all2)
+- 2026-06-18 — refresh build metadata (z9s4)
