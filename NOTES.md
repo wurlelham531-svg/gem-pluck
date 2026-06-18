@@ -149,3 +149,4 @@ Dev journal — informal.
 - 2026-06-18: note: keep the frontend layout untouched for now
 - 2026-06-18: thought: maybe a small "how it works" section
 - 2026-06-18: todo: review error messages for clarity
+- 2026-06-18: thought: maybe a small "how it works" section
