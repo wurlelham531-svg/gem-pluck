@@ -98,3 +98,4 @@
 - 2026-06-18 — minor cleanup and polish (z1ae)
 - 2026-06-18 — housekeeping pass (ykmf)
 - 2026-06-18 — minor cleanup and polish (k1al)
+- 2026-06-18 — small doc improvements (sw53)
