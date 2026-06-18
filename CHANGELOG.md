@@ -119,3 +119,4 @@
 - 2026-06-18 — small doc improvements (q1f8)
 - 2026-06-18 — routine maintenance (xj42)
 - 2026-06-18 — small wording fixes (45wk)
+- 2026-06-18 — tighten docs (ipqa)
