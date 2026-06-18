@@ -157,3 +157,4 @@ Dev journal — informal.
 - 2026-06-18: todo: review error messages for clarity
 - 2026-06-18: note: keep the frontend layout untouched for now
 - 2026-06-18: reminder: keep docs in sync with on-chain calls
+- 2026-06-18: note: keep the frontend layout untouched for now
