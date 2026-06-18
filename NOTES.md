@@ -140,3 +140,4 @@ Dev journal — informal.
 - 2026-06-18: todo: review error messages for clarity
 - 2026-06-18: todo: better empty-state copy
 - 2026-06-18: thinking about cleanup of contract entry point
+- 2026-06-18: tbd: feedback widget on landing
