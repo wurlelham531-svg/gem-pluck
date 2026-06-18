@@ -102,3 +102,7 @@
 - 2026-06-18 — housekeeping pass (9t3j)
 - 2026-06-18 — small wording fixes (ecqh)
 - 2026-06-18 — refresh build metadata (bvso)
+- 2026-06-18 — minor cleanup and polish (nvnd)
+- 2026-06-18 — small wording fixes (9hyz)
+- 2026-06-18 — routine maintenance (vzey)
+- 2026-06-18 — tighten docs (9pob)
