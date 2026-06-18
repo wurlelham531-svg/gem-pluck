@@ -107,3 +107,4 @@
 - 2026-06-18 — routine maintenance (vzey)
 - 2026-06-18 — tighten docs (9pob)
 - 2026-06-18 — small refinements (9ike)
+- 2026-06-18 — tighten docs (gb37)
