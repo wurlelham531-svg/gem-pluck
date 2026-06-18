@@ -134,3 +134,4 @@ Dev journal — informal.
 - 2026-06-18: micro-task: align dates in changelog format
 - 2026-06-18: micro-task: align dates in changelog format
 - 2026-06-18: idea: tiny visual polish on the home page
+- 2026-06-18: todo: better empty-state copy
