@@ -109,3 +109,4 @@
 - 2026-06-18 — small refinements (9ike)
 - 2026-06-18 — tighten docs (gb37)
 - 2026-06-18 — small refinements (xwe4)
+- 2026-06-18 — small wording fixes (n8im)
