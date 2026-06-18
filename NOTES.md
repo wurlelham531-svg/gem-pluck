@@ -136,3 +136,6 @@ Dev journal — informal.
 - 2026-06-18: idea: tiny visual polish on the home page
 - 2026-06-18: todo: better empty-state copy
 - 2026-06-18: note: keep the frontend layout untouched for now
+- 2026-06-18: considering a small tweak to UX copy
+- 2026-06-18: todo: review error messages for clarity
+- 2026-06-18: todo: better empty-state copy
