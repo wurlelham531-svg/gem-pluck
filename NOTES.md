@@ -146,3 +146,4 @@ Dev journal — informal.
 - 2026-06-18: micro-task: align dates in changelog format
 - 2026-06-18: todo: review error messages for clarity
 - 2026-06-18: tbd: feedback widget on landing
+- 2026-06-18: note: keep the frontend layout untouched for now
