@@ -152,3 +152,4 @@ Dev journal — informal.
 - 2026-06-18: thought: maybe a small "how it works" section
 - 2026-06-18: idea: tiny visual polish on the home page
 - 2026-06-18: tbd: feedback widget on landing
+- 2026-06-18: reminder: keep docs in sync with on-chain calls
