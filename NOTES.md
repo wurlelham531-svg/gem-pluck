@@ -172,3 +172,4 @@ Dev journal — informal.
 - 2026-06-19: idea: tiny visual polish on the home page
 - 2026-06-19: considering a small tweak to UX copy
 - 2026-06-19: todo: review error messages for clarity
+- 2026-06-19: tbd: feedback widget on landing
