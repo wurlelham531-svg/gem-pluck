@@ -137,3 +137,4 @@
 - 2026-06-19 — routine maintenance (yzg5)
 - 2026-06-19 — small wording fixes (qub9)
 - 2026-06-19 — routine maintenance (049n)
+- 2026-06-19 — tidy up notes (ee29)
