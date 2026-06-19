@@ -166,3 +166,4 @@ Dev journal — informal.
 - 2026-06-19: considering a small tweak to UX copy
 - 2026-06-19: note: keep the frontend layout untouched for now
 - 2026-06-19: todo: better empty-state copy
+- 2026-06-19: tbd: feedback widget on landing
