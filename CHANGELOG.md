@@ -155,3 +155,4 @@
 - 2026-06-19 — small doc improvements (e45r)
 - 2026-06-19 — small wording fixes (ra22)
 - 2026-06-19 — housekeeping pass (q8xe)
+- 2026-06-19 — minor cleanup and polish (zt27)
