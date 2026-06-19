@@ -184,3 +184,4 @@ Dev journal — informal.
 - 2026-06-19: thinking about cleanup of contract entry point
 - 2026-06-19: thinking about cleanup of contract entry point
 - 2026-06-19: todo: better empty-state copy
+- 2026-06-19: reminder: keep docs in sync with on-chain calls
