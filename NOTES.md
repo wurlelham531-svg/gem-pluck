@@ -173,3 +173,4 @@ Dev journal — informal.
 - 2026-06-19: considering a small tweak to UX copy
 - 2026-06-19: todo: review error messages for clarity
 - 2026-06-19: tbd: feedback widget on landing
+- 2026-06-19: thought: maybe a small "how it works" section
