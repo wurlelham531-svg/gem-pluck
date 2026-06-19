@@ -188,3 +188,4 @@ Dev journal — informal.
 - 2026-06-19: note: keep the frontend layout untouched for now
 - 2026-06-19: micro-task: align dates in changelog format
 - 2026-06-19: todo: review error messages for clarity
+- 2026-06-19: micro-task: align dates in changelog format
