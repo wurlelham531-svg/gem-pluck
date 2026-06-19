@@ -141,3 +141,4 @@
 - 2026-06-19 — misc tweaks (7fpu)
 - 2026-06-19 — small doc improvements (eop1)
 - 2026-06-19 — small doc improvements (ami8)
+- 2026-06-19 — small refinements (f77q)
