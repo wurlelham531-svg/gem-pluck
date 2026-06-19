@@ -138,3 +138,6 @@
 - 2026-06-19 — small wording fixes (qub9)
 - 2026-06-19 — routine maintenance (049n)
 - 2026-06-19 — tidy up notes (ee29)
+- 2026-06-19 — misc tweaks (7fpu)
+- 2026-06-19 — small doc improvements (eop1)
+- 2026-06-19 — small doc improvements (ami8)
