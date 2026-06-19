@@ -135,3 +135,4 @@
 - 2026-06-19 — tighten docs (tlpe)
 - 2026-06-19 — housekeeping pass (8oa7)
 - 2026-06-19 — routine maintenance (yzg5)
+- 2026-06-19 — small wording fixes (qub9)
