@@ -125,3 +125,4 @@
 - 2026-06-18 — refresh build metadata (gm4k)
 - 2026-06-19 — routine maintenance (u4gl)
 - 2026-06-19 — small wording fixes (8qhh)
+- 2026-06-19 — tidy up notes (ohg0)
