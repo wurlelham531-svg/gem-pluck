@@ -190,3 +190,4 @@ Dev journal — informal.
 - 2026-06-19: todo: review error messages for clarity
 - 2026-06-19: micro-task: align dates in changelog format
 - 2026-06-19: micro-task: align dates in changelog format
+- 2026-06-19: todo: better empty-state copy
