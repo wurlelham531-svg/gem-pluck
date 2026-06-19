@@ -128,3 +128,4 @@
 - 2026-06-19 — tidy up notes (ohg0)
 - 2026-06-19 — small refinements (dkb1)
 - 2026-06-19 — misc tweaks (7ryl)
+- 2026-06-19 — tighten docs (qx3u)
