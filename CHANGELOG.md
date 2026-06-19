@@ -126,3 +126,4 @@
 - 2026-06-19 — routine maintenance (u4gl)
 - 2026-06-19 — small wording fixes (8qhh)
 - 2026-06-19 — tidy up notes (ohg0)
+- 2026-06-19 — small refinements (dkb1)
