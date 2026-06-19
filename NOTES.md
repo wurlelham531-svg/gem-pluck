@@ -175,3 +175,4 @@ Dev journal — informal.
 - 2026-06-19: tbd: feedback widget on landing
 - 2026-06-19: thought: maybe a small "how it works" section
 - 2026-06-19: tbd: feedback widget on landing
+- 2026-06-19: tbd: feedback widget on landing
