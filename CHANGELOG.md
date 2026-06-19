@@ -131,3 +131,4 @@
 - 2026-06-19 — tighten docs (qx3u)
 - 2026-06-19 — minor cleanup and polish (078h)
 - 2026-06-19 — small doc improvements (ipqs)
+- 2026-06-19 — refresh build metadata (u5dw)
