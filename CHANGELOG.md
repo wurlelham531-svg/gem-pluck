@@ -165,3 +165,5 @@
 - 2026-06-20 — routine maintenance (vwxj)
 - 2026-06-20 — small refinements (wqtk)
 - 2026-06-20 — minor cleanup and polish (slmo)
+- 2026-06-20 — small doc improvements (81w2)
+- 2026-06-20 — refresh build metadata (vfec)
