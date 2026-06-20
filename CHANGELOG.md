@@ -189,3 +189,4 @@
 - 2026-06-20 — small doc improvements (eb1j)
 - 2026-06-20 — small refinements (u1wy)
 - 2026-06-20 — misc tweaks (xh7v)
+- 2026-06-20 — tighten docs (wp8e)
