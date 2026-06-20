@@ -178,3 +178,4 @@
 - 2026-06-20 — minor cleanup and polish (3a3y)
 - 2026-06-20 — tighten docs (ehog)
 - 2026-06-20 — small doc improvements (58ve)
+- 2026-06-20 — small doc improvements (q0rs)
