@@ -161,3 +161,4 @@
 - 2026-06-19 — small wording fixes (9pe9)
 - 2026-06-20 — small wording fixes (1nvz)
 - 2026-06-20 — small refinements (amtk)
+- 2026-06-20 — tidy up notes (5p1a)
