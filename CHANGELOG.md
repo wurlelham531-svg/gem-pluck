@@ -180,3 +180,4 @@
 - 2026-06-20 — small doc improvements (58ve)
 - 2026-06-20 — small doc improvements (q0rs)
 - 2026-06-20 — housekeeping pass (fwpr)
+- 2026-06-20 — small wording fixes (vuzt)
