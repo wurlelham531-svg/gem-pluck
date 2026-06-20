@@ -184,3 +184,4 @@
 - 2026-06-20 — misc tweaks (tve6)
 - 2026-06-20 — small wording fixes (vpl6)
 - 2026-06-20 — minor cleanup and polish (mtel)
+- 2026-06-20 — small wording fixes (piou)
