@@ -159,3 +159,4 @@
 - 2026-06-19 — tighten docs (dawi)
 - 2026-06-19 — routine maintenance (jyxt)
 - 2026-06-19 — small wording fixes (9pe9)
+- 2026-06-20 — small wording fixes (1nvz)
