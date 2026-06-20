@@ -169,3 +169,4 @@
 - 2026-06-20 — refresh build metadata (vfec)
 - 2026-06-20 — small doc improvements (xa4h)
 - 2026-06-20 — minor cleanup and polish (wewf)
+- 2026-06-20 — tidy up notes (wemi)
