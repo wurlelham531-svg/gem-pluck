@@ -181,3 +181,6 @@
 - 2026-06-20 — small doc improvements (q0rs)
 - 2026-06-20 — housekeeping pass (fwpr)
 - 2026-06-20 — small wording fixes (vuzt)
+- 2026-06-20 — misc tweaks (tve6)
+- 2026-06-20 — small wording fixes (vpl6)
+- 2026-06-20 — minor cleanup and polish (mtel)
