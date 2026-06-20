@@ -187,3 +187,4 @@
 - 2026-06-20 — small wording fixes (piou)
 - 2026-06-20 — refresh build metadata (kmub)
 - 2026-06-20 — small doc improvements (eb1j)
+- 2026-06-20 — small refinements (u1wy)
