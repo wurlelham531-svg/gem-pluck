@@ -167,3 +167,4 @@
 - 2026-06-20 — minor cleanup and polish (slmo)
 - 2026-06-20 — small doc improvements (81w2)
 - 2026-06-20 — refresh build metadata (vfec)
+- 2026-06-20 — small doc improvements (xa4h)
