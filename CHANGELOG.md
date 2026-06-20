@@ -163,3 +163,5 @@
 - 2026-06-20 — small refinements (amtk)
 - 2026-06-20 — tidy up notes (5p1a)
 - 2026-06-20 — routine maintenance (vwxj)
+- 2026-06-20 — small refinements (wqtk)
+- 2026-06-20 — minor cleanup and polish (slmo)
