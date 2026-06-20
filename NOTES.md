@@ -222,3 +222,4 @@ Dev journal — informal.
 - 2026-06-20: thought: maybe a small "how it works" section
 - 2026-06-20: note: keep the frontend layout untouched for now
 - 2026-06-20: reminder: keep docs in sync with on-chain calls
+- 2026-06-20: todo: better empty-state copy
