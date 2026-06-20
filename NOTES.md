@@ -210,3 +210,4 @@ Dev journal — informal.
 - 2026-06-20: tbd: feedback widget on landing
 - 2026-06-20: considering a small tweak to UX copy
 - 2026-06-20: thinking about cleanup of contract entry point
+- 2026-06-20: note: keep the frontend layout untouched for now
