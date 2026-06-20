@@ -185,3 +185,4 @@
 - 2026-06-20 — small wording fixes (vpl6)
 - 2026-06-20 — minor cleanup and polish (mtel)
 - 2026-06-20 — small wording fixes (piou)
+- 2026-06-20 — refresh build metadata (kmub)
