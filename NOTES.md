@@ -211,3 +211,5 @@ Dev journal — informal.
 - 2026-06-20: considering a small tweak to UX copy
 - 2026-06-20: thinking about cleanup of contract entry point
 - 2026-06-20: note: keep the frontend layout untouched for now
+- 2026-06-20: thought: maybe a small "how it works" section
+- 2026-06-20: thinking about cleanup of contract entry point
