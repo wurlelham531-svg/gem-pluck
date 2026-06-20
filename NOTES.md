@@ -202,3 +202,4 @@ Dev journal — informal.
 - 2026-06-19: note: keep the frontend layout untouched for now
 - 2026-06-20: note: keep the frontend layout untouched for now
 - 2026-06-20: micro-task: align dates in changelog format
+- 2026-06-20: micro-task: align dates in changelog format
