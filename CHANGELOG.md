@@ -172,3 +172,4 @@
 - 2026-06-20 — tidy up notes (wemi)
 - 2026-06-20 — routine maintenance (ho1t)
 - 2026-06-20 — refresh build metadata (vdbe)
+- 2026-06-20 — misc tweaks (rn9f)
