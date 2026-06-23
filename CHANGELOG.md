@@ -201,3 +201,4 @@
 - 2026-06-23 — small doc improvements (l8ck)
 - 2026-06-23 — minor cleanup and polish (mxdt)
 - 2026-06-23 — tidy up notes (jzqe)
+- 2026-06-23 — tighten docs (41a4)
