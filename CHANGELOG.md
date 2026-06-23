@@ -190,3 +190,4 @@
 - 2026-06-20 — small refinements (u1wy)
 - 2026-06-20 — misc tweaks (xh7v)
 - 2026-06-20 — tighten docs (wp8e)
+- 2026-06-23 — housekeeping pass (p924)
