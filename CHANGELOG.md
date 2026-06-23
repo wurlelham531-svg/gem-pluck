@@ -210,3 +210,4 @@
 - 2026-06-23 — misc tweaks (3662)
 - 2026-06-23 — misc tweaks (jrye)
 - 2026-06-23 — small doc improvements (ynkv)
+- 2026-06-23 — refresh build metadata (94ac)
