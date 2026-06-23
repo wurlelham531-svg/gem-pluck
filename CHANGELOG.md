@@ -213,3 +213,4 @@
 - 2026-06-23 — refresh build metadata (94ac)
 - 2026-06-23 — minor cleanup and polish (8o73)
 - 2026-06-23 — small wording fixes (x7bi)
+- 2026-06-23 — tighten docs (c0k3)
