@@ -235,3 +235,5 @@ Dev journal — informal.
 - 2026-06-23: thinking about cleanup of contract entry point
 - 2026-06-23: idea: tiny visual polish on the home page
 - 2026-06-23: reminder: keep docs in sync with on-chain calls
+- 2026-06-23: todo: better empty-state copy
+- 2026-06-23: note: keep the frontend layout untouched for now
