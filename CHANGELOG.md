@@ -215,3 +215,4 @@
 - 2026-06-23 — small wording fixes (x7bi)
 - 2026-06-23 — tighten docs (c0k3)
 - 2026-06-23 — housekeeping pass (sumi)
+- 2026-06-23 — small doc improvements (xk8w)
