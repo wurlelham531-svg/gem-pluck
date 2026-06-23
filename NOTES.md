@@ -237,3 +237,4 @@ Dev journal — informal.
 - 2026-06-23: reminder: keep docs in sync with on-chain calls
 - 2026-06-23: todo: better empty-state copy
 - 2026-06-23: note: keep the frontend layout untouched for now
+- 2026-06-23: tbd: feedback widget on landing
