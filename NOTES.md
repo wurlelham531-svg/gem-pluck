@@ -247,3 +247,4 @@ Dev journal — informal.
 - 2026-06-23: considering a small tweak to UX copy
 - 2026-06-23: considering a small tweak to UX copy
 - 2026-06-23: tbd: feedback widget on landing
+- 2026-06-23: reminder: keep docs in sync with on-chain calls
