@@ -216,3 +216,4 @@
 - 2026-06-23 — tighten docs (c0k3)
 - 2026-06-23 — housekeeping pass (sumi)
 - 2026-06-23 — small doc improvements (xk8w)
+- 2026-06-23 — misc tweaks (38n0)
