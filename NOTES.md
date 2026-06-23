@@ -246,3 +246,4 @@ Dev journal — informal.
 - 2026-06-23: thought: maybe a small "how it works" section
 - 2026-06-23: considering a small tweak to UX copy
 - 2026-06-23: considering a small tweak to UX copy
+- 2026-06-23: tbd: feedback widget on landing
