@@ -230,3 +230,4 @@ Dev journal — informal.
 - 2026-06-23: considering a small tweak to UX copy
 - 2026-06-23: considering a small tweak to UX copy
 - 2026-06-23: considering a small tweak to UX copy
+- 2026-06-23: micro-task: align dates in changelog format
