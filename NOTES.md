@@ -242,3 +242,4 @@ Dev journal — informal.
 - 2026-06-23: thinking about cleanup of contract entry point
 - 2026-06-23: considering a small tweak to UX copy
 - 2026-06-23: todo: review error messages for clarity
+- 2026-06-23: note: keep the frontend layout untouched for now
