@@ -220,3 +220,4 @@
 - 2026-06-23 — housekeeping pass (9hok)
 - 2026-06-23 — tidy up notes (lpsl)
 - 2026-06-23 — tidy up notes (v0ie)
+- 2026-06-23 — small refinements (8wgw)
