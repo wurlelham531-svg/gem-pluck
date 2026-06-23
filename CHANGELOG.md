@@ -207,3 +207,6 @@
 - 2026-06-23 — routine maintenance (lxnd)
 - 2026-06-23 — misc tweaks (ozqr)
 - 2026-06-23 — small wording fixes (m261)
+- 2026-06-23 — misc tweaks (3662)
+- 2026-06-23 — misc tweaks (jrye)
+- 2026-06-23 — small doc improvements (ynkv)
