@@ -211,3 +211,4 @@
 - 2026-06-23 — misc tweaks (jrye)
 - 2026-06-23 — small doc improvements (ynkv)
 - 2026-06-23 — refresh build metadata (94ac)
+- 2026-06-23 — minor cleanup and polish (8o73)
