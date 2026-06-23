@@ -197,3 +197,4 @@
 - 2026-06-23 — small refinements (xlx1)
 - 2026-06-23 — housekeeping pass (ed11)
 - 2026-06-23 — housekeeping pass (94cq)
+- 2026-06-23 — small wording fixes (moy2)
