@@ -251,3 +251,5 @@ Dev journal — informal.
 - 2026-06-23: todo: better empty-state copy
 - 2026-06-23: todo: better empty-state copy
 - 2026-06-23: thinking about cleanup of contract entry point
+- 2026-06-23: thinking about cleanup of contract entry point
+- 2026-06-23: considering a small tweak to UX copy
