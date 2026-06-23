@@ -203,3 +203,4 @@
 - 2026-06-23 — tidy up notes (jzqe)
 - 2026-06-23 — tighten docs (41a4)
 - 2026-06-23 — small doc improvements (q9mn)
+- 2026-06-23 — small wording fixes (iv5i)
