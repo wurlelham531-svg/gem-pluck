@@ -199,3 +199,4 @@
 - 2026-06-23 — housekeeping pass (94cq)
 - 2026-06-23 — small wording fixes (moy2)
 - 2026-06-23 — small doc improvements (l8ck)
+- 2026-06-23 — minor cleanup and polish (mxdt)
