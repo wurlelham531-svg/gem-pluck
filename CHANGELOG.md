@@ -246,3 +246,7 @@
 - 2026-06-25 — tidy up notes (c8vn)
 - 2026-06-25 — routine maintenance (neha)
 - 2026-06-25 — routine maintenance (eun2)
+- 2026-06-25 — small refinements (y2av)
+- 2026-06-25 — housekeeping pass (d6gi)
+- 2026-06-25 — refresh build metadata (3vp0)
+- 2026-06-25 — small wording fixes (ctcy)
