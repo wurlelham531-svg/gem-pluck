@@ -225,3 +225,7 @@
 - 2026-06-23 — housekeeping pass (ofw8)
 - 2026-06-25 — routine maintenance (x8eg)
 - 2026-06-25 — refresh build metadata (fj78)
+- 2026-06-25 — tighten docs (p4li)
+- 2026-06-25 — misc tweaks (s9ad)
+- 2026-06-25 — refresh build metadata (o33j)
+- 2026-06-25 — misc tweaks (4bb8)
