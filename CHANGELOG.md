@@ -239,3 +239,4 @@
 - 2026-06-25 — routine maintenance (3o6h)
 - 2026-06-25 — small doc improvements (8zb0)
 - 2026-06-25 — tighten docs (3gch)
+- 2026-06-25 — small wording fixes (v3pg)
