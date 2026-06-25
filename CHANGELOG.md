@@ -226,3 +226,4 @@
 - 2026-06-25 — routine maintenance (x8eg)
 - 2026-06-25 — refresh build metadata (fj78)
 - 2026-06-25 — tighten docs (p4li)
+- 2026-06-25 — misc tweaks (s9ad)
