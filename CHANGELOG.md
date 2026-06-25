@@ -241,3 +241,4 @@
 - 2026-06-25 — tighten docs (3gch)
 - 2026-06-25 — small wording fixes (v3pg)
 - 2026-06-25 — small wording fixes (qd0u)
+- 2026-06-25 — small doc improvements (ig4p)
