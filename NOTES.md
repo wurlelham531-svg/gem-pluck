@@ -285,3 +285,4 @@ Dev journal — informal.
 - 2026-06-25: todo: better empty-state copy
 - 2026-06-25: reminder: keep docs in sync with on-chain calls
 - 2026-06-25: thought: maybe a small "how it works" section
+- 2026-06-25: reminder: keep docs in sync with on-chain calls
