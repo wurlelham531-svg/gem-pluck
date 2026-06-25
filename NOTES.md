@@ -267,3 +267,4 @@ Dev journal — informal.
 - 2026-06-25: tbd: feedback widget on landing
 - 2026-06-25: thought: maybe a small "how it works" section
 - 2026-06-25: note: keep the frontend layout untouched for now
+- 2026-06-25: micro-task: align dates in changelog format
