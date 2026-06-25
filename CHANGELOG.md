@@ -251,3 +251,4 @@
 - 2026-06-25 — refresh build metadata (3vp0)
 - 2026-06-25 — small wording fixes (ctcy)
 - 2026-06-25 — housekeeping pass (5b25)
+- 2026-06-25 — tighten docs (17xb)
