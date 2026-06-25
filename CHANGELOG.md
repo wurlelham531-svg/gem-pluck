@@ -233,3 +233,4 @@
 - 2026-06-25 — tighten docs (sq2z)
 - 2026-06-25 — refresh build metadata (oh94)
 - 2026-06-25 — minor cleanup and polish (43ra)
+- 2026-06-25 — housekeeping pass (qlgs)
