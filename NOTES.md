@@ -275,3 +275,4 @@ Dev journal — informal.
 - 2026-06-25: idea: tiny visual polish on the home page
 - 2026-06-25: thinking about cleanup of contract entry point
 - 2026-06-25: note: keep the frontend layout untouched for now
+- 2026-06-25: todo: review error messages for clarity
