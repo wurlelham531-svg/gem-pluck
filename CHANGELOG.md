@@ -248,3 +248,4 @@
 - 2026-06-25 — routine maintenance (eun2)
 - 2026-06-25 — small refinements (y2av)
 - 2026-06-25 — housekeeping pass (d6gi)
+- 2026-06-25 — refresh build metadata (3vp0)
