@@ -237,3 +237,4 @@
 - 2026-06-25 — misc tweaks (gvr6)
 - 2026-06-25 — misc tweaks (e0vg)
 - 2026-06-25 — routine maintenance (3o6h)
+- 2026-06-25 — small doc improvements (8zb0)
