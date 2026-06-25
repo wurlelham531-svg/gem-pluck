@@ -278,3 +278,4 @@ Dev journal — informal.
 - 2026-06-25: todo: review error messages for clarity
 - 2026-06-25: micro-task: align dates in changelog format
 - 2026-06-25: micro-task: align dates in changelog format
+- 2026-06-25: micro-task: align dates in changelog format
