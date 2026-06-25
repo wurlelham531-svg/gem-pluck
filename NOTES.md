@@ -271,3 +271,5 @@ Dev journal — informal.
 - 2026-06-25: thinking about cleanup of contract entry point
 - 2026-06-25: micro-task: align dates in changelog format
 - 2026-06-25: tbd: feedback widget on landing
+- 2026-06-25: considering a small tweak to UX copy
+- 2026-06-25: idea: tiny visual polish on the home page
